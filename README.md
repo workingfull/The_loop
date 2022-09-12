@@ -4,5 +4,5 @@
 - CSS3
 - SCSS
 - @mixin, @include
-- Flexbox
+- Flexbox CSS
 - Responsive
